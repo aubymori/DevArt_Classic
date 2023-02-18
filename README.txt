@@ -1,3 +1,5 @@
+this is my personalized version of the pack
+
 Returns the classic feel to Minecraft :D 
 
 CREDITS: 
@@ -15,6 +17,7 @@ unprofessional_pack_maker - dripleaf
 InfiniteVoid - tulips 
 DartCat25 - 2D item
  - https://github.com/DartCat25/resourcepacks/tree/main/2d%20items
+Swunglepord862 - ported plank pattern
 
 HONOURABLE MENTIONS: 
 
@@ -30,6 +33,8 @@ Guardian1502
  - Inspiration. 
 Godlander 
  - Shader education 
+HexyFrostPlays
+ - being cool :)
 Slicedlime 
  - For thoroughly documenting texture changes between versions. 
  
